@@ -1,4 +1,6 @@
 REMIX lottery smart contract(by suraj shuban)
+this is a smart contract that basically chooses winner of lottery and basically transfers the prize pool to winner by randomly choosing one, who is given entry for about 0.000001 ETH.
+This repo has its script .sol as lottery.sol to navigate its directory.
 
 This workspace contains 3 directories:
 
@@ -9,7 +11,6 @@ This workspace contains 3 directories:
 SCRIPTS
 
 The 'scripts' folder has four typescript files which help to deploy the 'Storage' contract using 'web3.js' and 'ethers.js' libraries.
-
 For the deployment of any other contract, just update the contract's name from 'Storage' to the desired contract and provide constructor arguments accordingly 
 in the file `deploy_with_ethers.ts` or  `deploy_with_web3.ts`
 
@@ -22,4 +23,4 @@ Please note, require/import is supported in a limited manner for Remix supported
 For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes, remix and hardhat only for hardhat.ethers object/plugin.
 For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
 
-additional note:'this is fmy first ever smart contract"
+additional note:'this is fmy first ever smart contract".;)
