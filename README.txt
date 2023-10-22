@@ -1,4 +1,4 @@
-REMIX lottery smart contract
+REMIX lottery smart contract(by suraj shuban)
 
 This workspace contains 3 directories:
 
